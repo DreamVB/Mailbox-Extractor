@@ -1,6 +1,7 @@
 // Mail message extractor
 // Extract messages from inbox files such as Thunderbird or UseNet
-// by DreamVB 20:34 03/10/2016
+// by DreamVB
+// Last update 19:54 29/04/2021
 // Version 1.2
 
 #include <iostream>
